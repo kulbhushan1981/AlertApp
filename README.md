@@ -1,4 +1,4 @@
-# AlertApp
+# alertapp
 Log Alert Application in Vuejs
 
 
@@ -16,3 +16,20 @@ npm run serve
 ```
 npm run build
 ```
+
+# node-api
+Log Alert api endpoints
+
+
+## Project setup
+```
+npm install express
+
+```
+
+### Compiles and run the server
+```
+node server.js
+```
+
+
