@@ -1,5 +1,5 @@
 # AlertApp
-Log Alert Application in Viejs
+Log Alert Application in Vuejs
 
 
 ## Project setup
